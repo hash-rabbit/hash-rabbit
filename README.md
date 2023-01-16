@@ -1,6 +1,3 @@
-Hello i'm hash rabbit 🐇
-In here you can view my open source code 💻
-enjoy it! 🚀
 
 - 👋 Hi, I’m @hash-rabbit
 - 👀 I’m interested in code
